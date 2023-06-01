@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap'); /*/ Import google font /*/
+*{
+    text-decoration:none;
+}
+body{
+    background-color: rgb(24, 24, 24);
+        color: rgb(161, 161, 161);
+}
+h1,h2,h3,h4,h5,h6{
+    color:white;
+}
+#navigation > a{ /*we mean the elements with tag <a>  inside the navigation bar with id navigation*/
+    color:black;
+}
+#navigation > a:hover{ /* this is what to happen when you hover on the navigation bar buttons*/
+    background-color:white;
+    margin-bottom:10px;
+    transition:0.3em;
+    font-size: 35px;
+}
+#navigation /*navigation bar design */
+{
+display:flex; 
+width:98vw; /*vw - view width */
+height:10vh; /*vh - view height */
+background-color:grey;
+align-items:center; /* alignment is in the center */
+justify-content: space-around; /*alignment of the flexible elements (display: flex) which don't use all the space around them, displays them horizontally */
+border:5px solid white; /* border of the navaigation bar*/
+font-size:30px; /* size of the font of the elements in the navigation bar*/
+}
+.main_info
+{
+   border:3px solid white;
+    float:left;
+}
+.main_small
+{
+   margin-left:10px;
+    font-size:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#site_picture
+{
+    width:150px;
+    height:150px;
+    float: right;
+    margin-right:40px;
+    padding-top:7px;
+    border:10px solid grey;
+    background-color: white;
+   
+}
+#site_picture:hover{
+    
+    border: 10px solid blue;
+   
+}
+
+#start
+        {
+            margin-left:15px;
+        }
+        #start1
+        {
+            margin-left:15px;
+            padding-top:3px;
+        }
+        .titles_eras
+        {
+            margin-left:5px;
+        }
+        #future_robot
+        {
+            width:150px;
+            height:150px;
+            float: right;
+            margin-right:40px;
+            padding-top:7px;
+            border:10px solid lime;
+            background-color: lime
+        }
+        #future_robot:hover
+        {
+            border: 10px solid goldenrod;
+            background-color:goldenrod;
+        }
+        #future_era
+        {
+            width:150px;
+            height:150px;
+            float:right;
+            margin-right:35px;
+           
+            border:10px solid yellow;
+            background-color: yellow;
+            
+        }
+        #future_era:hover{
+            border: 10px solid purple;
+            background-color:purple;
+            
+        }
+
