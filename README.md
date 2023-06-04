@@ -6,4 +6,4 @@
 **3. Front-end developers - _Veselin Boyanov (8a)_, _Aleksander Lalev (8v)_**
 <br />
 <hr>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fro.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw3WlH1YUObarXW4iNwFfhyX&ust=1685987833373000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDyk6CYqv8CFQAAAAAdAAAAABAk">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fro.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw3WlH1YUObarXW4iNwFfhyX&ust=1685987833373000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDyk6CYqv8CFQAAAAAdAAAAABAk](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)">
