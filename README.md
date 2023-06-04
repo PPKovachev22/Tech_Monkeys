@@ -6,4 +6,3 @@
 **3. Front-end developers - _Veselin Boyanov (8a)_, _Aleksander Lalev (8v)_**
 <br />
 <hr>
-![image](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)
