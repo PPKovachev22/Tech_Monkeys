@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap'); /* Import google font */
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'popins', sans-serif;
+}
+body
+{
+    background-color: black;
+    height: 2000px;
+}
+.navbar
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10px;
+    height: 10vh;
+    width: 98.3vw;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Poppins;
+    gap: 7vw;
+    transition: 0.5s;
+} 
+.a1
+{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+    border-radius: 3px;
+}
+.img
+{
+    height: 20vh;
+    width: 19vw;
+    margin-left: 100px;
+}
+.contact
+{
+    padding: 0.2vw 1em;
+}
+.home
+{
+    margin-left: 70px;
+    padding: 0.2vw 1em;
+}
+.learn
+{
+    padding: 0.2vw 1em;
+}
+.about
+{
+    padding: 0.2vw 1em;
+}
+
+.home:hover
+{
+    transform: translateY(-10px); /*margin-bottom*/
+    border: 0.2vw solid whitesmoke;
+}
+.learn:hover
+{
+    transform: translateY(-10px); /*margin-bottom*/
+    border: 0.2vw solid whitesmoke;
+}
+.about:hover
+{
+    transform: translateY(-10px); /*margin-bottom*/
+    border: 0.2vw solid whitesmoke;
+}
+.contact:hover
+{
+    transform: translateY(-10px); /*margin-bottom*/
+    border: 0.2vw solid whitesmoke;
+}
+.h1
+{
+    color: white;
+    margin-top: 100px;
+    margin-left: 800px;
+}
+.img1
+{
+    height: 300px;
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.p1
+{
+    color: white;
+    font-weight: 1000;
+    width: 1000px;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.img2
+{
+    height: 300px;
+    width: 350px;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.p2
+{
+    color: white;
+    font-weight: 1000;
+    width: 1000px;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.img3
+{
+    height: 300px;
+    width: 350px;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.p3
+{
+    color: white;
+    font-weight: 1000;
+    width: 1000px;
+    margin-left: 500px;
+    margin-top: -200px;
+}

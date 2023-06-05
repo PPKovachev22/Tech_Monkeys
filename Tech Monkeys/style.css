@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap'); /* Import google font */
+body
+{
+    background-color: black;
+}
+.navbar
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10px;
+    height: 10vh;
+    width: 98.3vw;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Poppins;
+    gap: 7vw;
+    transition: 0.5s;
+} 
+.a1
+{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+    border-radius: 3px;
+}
+.img
+{
+    height: 20vh;
+    width: 19vw;
+    margin-left: -300px;
+}
+.contact
+{
+    padding: 0.2vw 1em;
+}
+.home
+{
+    margin-left: 70px;
+    padding: 0.2vw 1em;
+}
+.learn
+{
+    padding: 0.2vw 1em;
+}
+.about
+{
+    padding: 0.2vw 1em;
+}
+
+.home:hover
+{
+    transform: translateY(-10px); /*margin-bottom*/
+    border: 0.2vw solid whitesmoke;
+}
+.learn:hover
+{
+    transform: translateY(-10px); /*margin-bottom*/
+    border: 0.2vw solid whitesmoke;
+}
+.about:hover
+{
+    transform: translateY(-10px); /*margin-bottom*/
+    border: 0.2vw solid whitesmoke;
+}
+.contact:hover
+{
+    transform: translateY(-10px); /*margin-bottom*/
+    border: 0.2vw solid whitesmoke;
+}
+.style1
+{
+    position: absolute;
+    margin-top: -700px;
+    margin-left: -50px;
+    width: 469.15px;
+    height: 410.47px;
+    left: -80.31px;
+    top: 396px;
+    background: #7DF9FF;
+    opacity: 0.5;
+    filter: blur(125px);
+    transform: rotate(43.14deg);
+}
+.style2
+{   
+    position: absolute;
+    margin-top: 1000px;
+    margin-left: -50px;
+    width: 469.15px;
+    height: 410.47px;
+    left: -80.31px;
+    top: 396px;
+    background: #7DF9FF;
+    opacity: 0.5;
+    filter: blur(125px);
+    transform: rotate(43.14deg);
+}
+p{ color:white;}
+h1,h2,h3,h4,h5,h6{
+    color:white;
+}
+body{
+    background-color:black;
+}
+.history
+{
+    margin-left: 400px;
+    margin-right:80px;
+    font-size:100px;
+    font-family:Arial, Helvetica, sans-serif;
+  
+ 
+}
+.now_past
+{
+    margin-left: 650px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:60px;
+
+}
+.robot
+{
+    width:400px;
+    height:350px;
+    margin-left:70px;
+    margin-top:50px;
+    float:left;
+}
+.here
+{
+    margin:0;
+    padding:0;
+    font-size:40px;
+    margin-top:200px;
+    margin-left: 600px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.button1
+{
+    margin-left: 800px;
+    height:50px;
+    width:200px;
+    font-size:20px;
+    color:white;
+    background-color:darkcyan;
+    border-radius:6px;
+    border:solid 1px darkcyan;
+    
+}
