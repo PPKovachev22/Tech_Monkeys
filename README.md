@@ -1,5 +1,5 @@
 # Tech_Monkeys
-**1. Scrum Leader - _Petko Kovachev (8g)_**
+**1. Scrum Trainer - _Petko Kovachev (8g)_**
 <br/>
 **2. Designer - _Ivailo Gyurov (8b)_**
 <br/>
