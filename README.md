@@ -14,7 +14,7 @@
 </p> 
 
 ## 📋 Description
-The game consists of 3 levels, each with a different difficulty. When the game starts, the player enters their own name and selects the difficulty level. In the process of playing, the player solves tasks and answers questions related to bitwise operations. If the player indicates a correct answer, a life is taken from the enemy, but if he marks a wrong answer, a life is taken from his. The game is won if the player manages to answer enough questions correctly to take down the enemy.
+This repository consists of a documentation, presentation and a website about the history of robotics created by the ''company'' Tech Monkeys.
 
 ## 🚀 Languages
 <p align="left">
