@@ -30,7 +30,7 @@ This repository consists of a documentation, presentation, a website and more ab
   </ul> 
 <h4>Presenting</h4>
   <ul>    
-    <li><a href="">Presentation</a></li>
+    <li><a href="https://codingburgas-my.sharepoint.com/:p:/g/personal/irgyurov22_codingburgas_bg/EVTusJ42z1tOlkjlx_CCGroBZQiz0u3SF31HuDzTgg_gvA?e=A3Fz5q">Presentation</a></li>
   </ul> 
  
 ## ⚙ Website Access
