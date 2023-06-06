@@ -1,17 +1,9 @@
 <h1 align="center">Tech Monkeys</h1>
 
 <p align = "center">
-  <img src="2223-9th-grade-sprint-math-games/logos/logo_white2.png" alt="Algebrain's logo">
 </p>
 
 <br>
-
-<p align = "center">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codingburgas/2223-9th-grade-sprint-math-games-algebrain?style=flat-square">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/codingburgas/2223-9th-grade-sprint-math-games-algebrain?style=flat-square">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/codingburgas/2223-9th-grade-sprint-math-games-algebrain?style=flat-square">
-  <img src="https://img.shields.io/github/languages/count/codingburgas/2223-9th-grade-sprint-math-games-algebrain?style=flat-square">
-</p> 
 
 ## 📋 Description
 This repository consists of a documentation, presentation, a website and more about the history of robotics. This repo was created by the ''company'' (or team) Tech Monkeys.
