@@ -14,7 +14,7 @@
 </p> 
 
 ## 📋 Description
-This repository consists of a documentation, presentation and a website about the history of robotics created by the ''company'' Tech Monkeys.
+This repository consists of a documentation, presentation, a website and more about the history of robotics created by the ''company'' Tech Monkeys.
 
 ## 🚀 Languages
 <p align="left">
