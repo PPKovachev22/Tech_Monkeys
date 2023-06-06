@@ -6,7 +6,7 @@
 <br>
 
 ## 📋 Description
-This repository consists of a documentation, presentation, a website and more about the history of robotics. This repo was created by the ''company'' (or team) Tech Monkeys.
+This repository consists of a documentation, presentation, a website and more about the history of robotics. This repo was created by the ''company'' (or team) Tech Monkeys. The members are Petko Kovachev, Ivaylo Gyurov, Veselin Boyanov and Aleksandur Lalev.
 
 ## 🗂 Used technologies
 <p align="left">
