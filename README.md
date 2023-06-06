@@ -23,9 +23,7 @@ This repository consists of a documentation, presentation, a website and more ab
  
 <h4>Documents</h4>
   <ul>
-    <li><a href="2223-9th-grade-sprint-math-games/Documents/Documentation/Documentation.docx">Documentation</a></li>
-    <li><a href="2223-9th-grade-sprint-math-games/Documents/QA/QA TEST PLAN.docx">QA Test Plan</a></li>
-    <li><a href="2223-9th-grade-sprint-math-games/Documents/QA/QA tests.xlsx">QA Table</a></li>
+    <li><a href="">Documentation</a></li>
   </ul> 
 <h4>Presenting</h4>
   <ul>    
