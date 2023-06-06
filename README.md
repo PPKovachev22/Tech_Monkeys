@@ -58,7 +58,7 @@ The game consists of 3 levels, each with a different difficulty. When the game s
 
 | **Name** | **Role** | **Grade** |
 | :---:   | :---: | :---: |
-| Miroslav Ganev | *Scrum trainer* | 🟦 8G |
-| Filipa Popova | *Front-end developer*  | 🟨 8a |
-| Alex Kazakov | *Front-end developer*  | 🟩 8V |
-| Polina Dineva |  *Designer*  | 🟥 8B |
+| Petko Kovachev | *Scrum trainer* | 🟦 8G |
+| Veselin Boyanov | *Front-end developer*  | 🟨 8a |
+| Alexander Lalev | *Front-end developer*  | 🟩 8V |
+| Ivailo Gyurov |  *Designer*  | 🟥 8B |
