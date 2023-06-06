@@ -44,7 +44,7 @@ This repository consists of a documentation, presentation, a website and more ab
   </ul> 
 <h4>Presenting</h4>
   <ul>    
-    <li><a href="2223-9th-grade-sprint-math-games/Documents/Presenting/Algebrain.pptx">Presentation</a></li>
+    <li><a href="">Presentation</a></li>
   </ul> 
  
 ## ⚙ Website Access
