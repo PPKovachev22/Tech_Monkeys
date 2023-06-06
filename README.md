@@ -1,4 +1,4 @@
-# Tech_Monkeys
+# Tech Monkeys
 **1. Scrum Trainer - _Petko Kovachev (8g)_**
 <br/>
 **2. Designer - _Ivaylo Gyurov (8b)_**
