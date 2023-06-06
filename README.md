@@ -1,4 +1,4 @@
-<h1 align="center">Algebrain</h1>
+<h1 align="center">Tech Monkeys</h1>
 
 <p align = "center">
   <img src="2223-9th-grade-sprint-math-games/logos/logo_white2.png" alt="Algebrain's logo">
