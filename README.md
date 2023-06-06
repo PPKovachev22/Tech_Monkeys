@@ -16,12 +16,6 @@
 ## 📋 Description
 This repository consists of a documentation, presentation, a website and more about the history of robotics. This repo was created by the ''company'' (or team) Tech Monkeys.
 
-## 🚀 Languages
-<p align="left">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-</p>
-
 ## 🗂 Used technologies
 <p align="left">
   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="Visual Studio Code 2019"/></a>
