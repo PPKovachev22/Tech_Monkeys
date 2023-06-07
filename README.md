@@ -26,7 +26,7 @@ This repository consists of a documentation, presentation, a website and more ab
  
 <h4>Documents</h4>
   <ul>
-    <li><a href="./Documemts/Tech Monkeys Documentation.docx">Documentation</a></li>
+    <li><a href="./Documents/Tech Monkeys Documentation.docx">Documentation</a></li>
   </ul> 
 <h4>Presenting</h4>
   <ul>    
