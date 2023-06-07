@@ -1,6 +1,7 @@
 <h1 align="center">Tech Monkeys</h1>
 
 <p align = "center">
+  <img src="./design.png/tech monkeys logo.png" alt="Tech Monkeys's Logo"/>
 </p>
 
 <br>
