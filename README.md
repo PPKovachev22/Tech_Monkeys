@@ -1,7 +1,7 @@
 <h1 align="center">Tech Monkeys</h1>
 
 <p align = "center">
-  <img src="./design.png/tech monkeys logo.png" alt="Tech Monkeys's Logo"/>
+  <img src="./Design/tech monkeys logo.png" alt="Tech Monkeys's Logo"/>
 </p>
 
 <br>
@@ -26,11 +26,11 @@ This repository consists of a documentation, presentation, a website and more ab
  
 <h4>Documents</h4>
   <ul>
-    <li><a href="https://codingburgas-my.sharepoint.com/:w:/g/personal/irgyurov22_codingburgas_bg/EWGX8SaOQIBOhXFaAR666zkBz5BSUlOgDhnbbWAP79TS7A?e=eY6WBN">Documentation</a></li>
+    <li><a href="./Documemts/Tech Monkeys Documentation.docx">Documentation</a></li>
   </ul> 
 <h4>Presenting</h4>
   <ul>    
-    <li><a href="https://codingburgas-my.sharepoint.com/:p:/g/personal/irgyurov22_codingburgas_bg/EVTusJ42z1tOlkjlx_CCGroBZQiz0u3SF31HuDzTgg_gvA?e=A3Fz5q">Presentation</a></li>
+    <li><a href="./Documents/Tech Monkeys Presentation.pptx">Presentation</a></li>
   </ul> 
  
 ## ⚙ Website Access

@@ -2,22 +2,46 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" href="./Images/logo1.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
     <link rel="stylesheet" href="./CSS/Contact.css">
 </head>
 <body>
-  <script src="js.js"></script>
-  <form action="https://api.web3forms.com/submit" method="POST">
+  
+
+  <div class="navbar" id="nav">
+    <img class="img" src="./Images/logo.png">
+    <a href="./index.html" class="home a1">Home</a>
+    <a href="./Learn.html" class="learn a1">Learn More</a>
+    <a href="./About_us.html" class="about a1">About Us</a>
+    <a href="./Contact.html" class="contact a1">Contact</a>
+    <div class="style1"></div>
+    <div class="style2"></div>
+    <div class="style3"></div>
+  </div>
+
+  <h1>You can contact our team, here!</h1>
+  <h3 class="h3">You can contact our team here! Don't wait, just create a form and fill it out as shown! To delete the form, just press the escape button!</h3>
+
+  <button class="btn"id="btn">Create Form</button>
+
+  <form action="https://api.web3forms.com/submit" method="POST" id="form" class="form">
+
     <h3>Name</h3>
     <input type="hidden" name="access_key" value="76c29e65-af90-48cd-9c11-c3ca68f75b09">
-    <input type="text" name="name" required>
+    <input type="text" name="name" class="input1"required placeholder="Veselin Boyanov">
+
     <h3>Email</h3>
-    <input type="email" name="email" required>
+    <input type="email" name="email" class="input2" required placeholder="VBBoyanov22@codingburgas.bg">
+
     <h3>Message</h3>
-    <textarea name="message" required></textarea>
-    <button type="submit" href="Contact.html">Submit Form</button>
+    <textarea name="message" required placeholder="Can you tell me how you made such a nice site?"></textarea>
+
+    <button type="submit">Submit The Form</button>
+    <script src="https://web3forms.com/client/script.js" async defer></script>
+    <script src="./JS/contact.js"></script>
 </form>
 
 </body>
